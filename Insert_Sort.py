@@ -1,4 +1,9 @@
-dum_arr = [1, 13, 15, 45, 7, 87, 87, 77, 54, 6, 9, 89, 0, 3]
+
+
+dum_arr = [999 ,01, 13, 15, 45, 7, 87, 87, 77, 54, 6, 9, 89, 0, 3]
+
+int count = 78
+
 for i in range(0, len(dum_arr)):
     print(i)
     for j in range(i, -1, -1):
