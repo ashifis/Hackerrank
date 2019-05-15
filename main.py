@@ -10,6 +10,6 @@ if __main__ = '__name__':
 
     print("Changes from working branch")
 
-    printf("To check pull again from main py")
+    print("To check pull again from main py")
 
 	# added print("test edited from github")
